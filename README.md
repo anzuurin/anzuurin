@@ -8,4 +8,4 @@
 
 - Long Term (2-5 yrs)
 
-  - Graduate with Computer Science degree
+  - Graduate with Computer Science degree in one piece lol
