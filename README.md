@@ -1,5 +1,7 @@
 ### About me
 
+[Portfolio](https://personal-portfolio-zeta-black.vercel.app/)
+
 - Short Term Goals(< 2 yrs)
 
   - Code more for fun lol
