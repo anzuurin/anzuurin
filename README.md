@@ -1,6 +1,6 @@
 ### Hey there, I'm Melody! 🎵
 
-[Portfolio](www.melodyllinas.com)
+[Portfolio](https://www.melodyllinas.com/)
 
 👩🏽‍💻 Full Stack Software Engineer based in the US.<br/>
 🍎 Graduated with a B.S. in Computer Science at the College of William & Mary<br/>
