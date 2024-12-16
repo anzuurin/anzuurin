@@ -1,6 +1,6 @@
 ### About me
 
-[Portfolio](https://personal-portfolio-zeta-black.vercel.app/)
+[Portfolio](www.melodyllinas.com)
 
 - Short Term Goals(< 2 yrs)
 
