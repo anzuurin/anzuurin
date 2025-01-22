@@ -18,5 +18,12 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melody-llinas) 
 
+<a href="https://anzuurin.pythonanywhere.com/link">
+  <img
+    src="https://anzuurin.pythonanywhere.com?spin=true"
+    alt="Current Spotify Song"
+  />
+</a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=anzuurin&icon=0&color=0)](https://visitcount.itsvg.in)
